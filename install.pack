@@ -1,0 +1,7 @@
+<packpy>
+<progname>Example App</progname>
+<file url="https://raw.githubusercontent.com/kerem3338/bambu/master/README.md"></file>
+<author>Kerem Ata</author>
+<installdir>/home/runner/packpy-v2</installdir>
+<publisher>KComp</publisher>
+</packpy>
